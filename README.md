@@ -2,11 +2,11 @@
 数字图像的一些自己写的作业
 
 
-##Haze Removal 
+## Haze Removal 
 
 Including:
 
-1.Three papers:
+**1.Three papers:**
 
 1.1 Haze Removal(using soft matting) in 2009
 
@@ -16,8 +16,8 @@ Including:
 
 (好老的文章 → →)
 
-2.My report & slides
+**2.My report & slides**
 
-3.Codes
+**3.Codes**
 
 Using guide filter to remove image haze.
