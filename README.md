@@ -20,4 +20,4 @@ Including:
 
 **3.Codes**
 
-Using guide filter to remove image haze.
+Using guide filter to remove image haze. Just open 'main.m' and run, if you wanna change the picture, just put your picture in this file and change the name in function in 'main.m'.
