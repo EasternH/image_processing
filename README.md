@@ -1,6 +1,11 @@
-# image_processing
+# Digital_image_processing
 数字图像的一些自己写的作业
 
+## Lecture 
+
+课程课件
+
+参考书目为冈萨雷斯的《数字图像处理》
 
 ## Haze Removal 
 
