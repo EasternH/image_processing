@@ -7,6 +7,12 @@
 
 参考书目为冈萨雷斯的《数字图像处理》
 
+## Software 
+
+Matlab2015
+
+Python3.6
+
 ## Haze Removal 
 
 Including:
